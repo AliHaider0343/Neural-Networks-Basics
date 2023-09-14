@@ -1,0 +1,3 @@
+input the features at the input layers along with bias values that is added to the followinf neuron weighted sum that is 
+
+Neuron value = Actiavation fucntion(Sum of weighted  inputs + biasness)
